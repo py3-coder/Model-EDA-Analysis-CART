@@ -1,0 +1,122 @@
+Season Number,Episode Number,Episode Title,Pitch Number,Startup Name,Industry,Business Description,Company Website,Number of Presenters,Male Presenters,Female Presenters,Couple Presenters,Pitchers Average Age,Started in,Pitchers City,Pitchers State,Yearly Revenue,Monthly Sales,Gross Margin,Original Ask Amount,Original Ask Equity,Valuation Requested,Received Offer,Accepted Offer,Total Deal Amount,Total Deal Equity,Total Deal Debt,Valuation Offered,Ashneer Investment Amount,Ashneer Investment Equity,Ashneer Debt Amount,Namita Investment Amount,Namita Investment Equity,Namita Debt Amount,Anupam Investment Amount,Anupam Investment Equity,Anupam Debt Amount,Vineeta Investment Amount,Vineeta Investment Equity,Vineeta Debt Amount,Aman Investment Amount,Aman Investment Equity,Aman Debt Amount,Peyush Investment Amount,Peyush Investment Equity,Peyush Debt Amount,Ghazal Investment Amount,Ghazal Investment Equity,Ghazal Debt Amount,Number of sharks in deal
+1,1,Badlegi Business Ki Tasveer,1,BluePine Foods,Food,Frozen Momos,https://bluepinefoods.com/,3,2,1,0,Middle,2016,Delhi,Delhi,95,800000,,50,5,1000,1,1,75,16,,469,25,5.33,,0,0,,0,0,,25,5.33,,25,5.33,,,,,,,,3
+1,1,Badlegi Business Ki Tasveer,2,Booz Scooters,Electrical Vehicles,Renting e-bike for mobility in private spaces,https://www.boozup.net/,1,1,,0,Young,2017,Ahmedabad,Gujarat,4,40000,,40,15,267,1,1,40,50,,80,20,25,,0,0,,0,0,,20,25,,0,0,,,,,,,,2
+1,1,Badlegi Business Ki Tasveer,3,Heart up my Sleeves,Beauty/Fashion,Detachable Sleeves,https://heartupmysleeves.com/,1,,1,0,Young,2021,Delhi,Delhi,,200000,,25,10,250,1,1,25,30,,83,0,0,,0,0,,12.5,15,,12.5,15,,0,0,,,,,,,,2
+1,2,"Insaan, Ideas Aur Sapne",4,Tagz Foods,Food,Healthy Potato Chips Snacks,https://tagzfoods.com/,2,2,,0,Middle,2019,Bangalore,Karnataka,700,,48,70,1,7000,1,1,70,2.75,,2545,70,2.75,,0,0,,0,0,,0,0,,0,0,,,,,,,,1
+1,2,"Insaan, Ideas Aur Sapne",5,Head and Heart,Education,Brain Development Course,https://thehnh.in/,4,1,3,1,Middle,2015,,Punjab,30,,,50,5,1000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2,"Insaan, Ideas Aur Sapne",6,Agri tourism,Services,Tourism,https://www.agritourism.in/,2,1,1,1,Middle,2005,Baramati,Maharashtra,79,,,50,5,1000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,3,Aam Aadmi Ke Business Ideas,7,qZense Labs,Food,Food Freshness Detector,https://www.qzense.com/,2,,2,0,Middle,2020,"Mohali,Delhi","Punjab, Delhi",25,,,100,0.25,40000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,3,Aam Aadmi Ke Business Ideas,8,Peeschute,Beauty/Fashion,Disposable Urine Bag,https://www.peeschute.com/,1,1,,0,Young,2019,Jalna,Maharashtra,100,,,75,4,1875,1,1,75,6,,1250,0,0,,0,0,,0,0,,0,0,,75,6,,,,,,,,1
+1,3,Aam Aadmi Ke Business Ideas,9,NOCD,Food,Energy Drink,,2,2,,0,Middle,2019,Bangalore,Karnataka,,2000000,,50,2,2500,1,1,20,15,30,133,0,0,,0,0,,0,0,,20,15,30,0,0,,,,,,,,1
+1,4,Entrepreneurship Ki Wave,10,Cos IQ,Beauty/Fashion,Intelligent Skincare,https://mycosiq.com/,2,1,1,1,Middle,2021,Delhi,Delhi,,400000,75,50,7.5,667,1,1,50,25,,200,0,0,,0,0,,25,12.5,,25,12.5,,0,0,,,,,,,,2
+1,4,Entrepreneurship Ki Wave,11,JhaJi Achaar,Food,Pickle,https://www.jhajistore.com/,2,,2,0,Old,2021,Darbhanga,Bihar,,500000,18,50,10,500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,4,Entrepreneurship Ki Wave,12,Bummer,Beauty/Fashion,Underwear,https://bummer.in/,1,1,,0,Young,2020,Ahmedabad,Gujarat,,1500000,70,75,4,1875,1,1,75,7.5,,1000,0,0,,37.5,3.75,,0,0,,0,0,,37.5,3.75,,,,,,,,2
+1,5,Hunt For Interesting Business,13,Revamp Moto,Electrical Vehicles,E-Bike Mitra bud-e RM,https://www.revampmoto.in/,3,3,,0,Young,,Nashik,Maharashtra,,1000,,100,1,10000,1,1,100,1.5,,6667,0,0,,0,0,,50,0.75,,0,0,,50,0.75,,,,,,,,2
+1,5,Hunt For Interesting Business,14,Hungry Head,Food,Restaurant serving 80 types of Maggi,,2,2,,0,Middle,2013,Mumbai,Maharashtra,,550000,,50,5,1000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,5,Hunt For Interesting Business,15,Shrawani Engineers,Beauty/Fashion,Belly Button Shaper,https://www.shrawaniengineers.com/,2,1,1,1,Middle,2019,Nagpur,Maharashtra,50,,,20,10,200,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,6,"New Week, New Ideas",16,Skippi Ice Pops,Food,Ice-Pops,https://skippi.in/,2,1,1,1,Middle,,Hyderabad,Telangana,,600000,,45,5,900,1,1,100,15,,667,20,3,,20,3,,20,3,,20,3,,20,3,,,,,,,,5
+1,6,"New Week, New Ideas",17,Menstrupedia,Education,Menstrual Awareness Comic,https://www.menstrupedia.com/,2,1,1,1,Middle,,Ahmedabad,Gujarat,115,,,50,10,500,1,1,50,20,,250,0,0,,50,20,,0,0,,0,0,,0,0,,,,,,,,1
+1,6,"New Week, New Ideas",18,Hecoll,Beauty/Fashion,Pollution Resistant Fabric - Healthy Cover For All,https://hecoll.com/,1,,1,0,Middle,2019,Hyderabad,Telangana,107,,,100,1,10000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,7,A Never Give Up Spirit,19,Raising Superstars,Education,Child Development App,https://raisingsuperstars.com/india-page,2,1,1,1,Middle,,,,1300,,,100,2,5000,1,1,100,4,,2500,50,2,,0,0,,0,0,,0,0,,50,2,,,,,,,,2
+1,7,A Never Give Up Spirit,20,Torch-it,Education,Gadgets for visually impaired people,https://mytorchit.com/,1,1,,0,Middle,2018,Ahmedabad,Gujarat,,100000,,75,1,7500,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,7,A Never Give Up Spirit,21,La Kheer Deli,Food,Kheer in variety of flavors,https://lakheerdeli.com/,3,1,2,0,Middle,,Pune,Maharashtra,,600000,,50,7.5,667,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,8,Shark Ko Impress Karne Wale Ideas,22,Beyond Snack,Food,Kerala Banana Chips,https://www.beyondsnack.in/,1,1,,0,Middle,,Thiruvananthapuram,Kerala,,2060000,51,50,2.5,2000,1,1,50,2.5,,2000,25,1.25,,0,0,,0,0,,,,,25,1.25,,0,0,,,,,2
+1,8,Shark Ko Impress Karne Wale Ideas,23,Vivalyf Innovations,Medical,Easy Life Prickless Diabetes Testing Machine,https://vivalyf.in/,2,1,1,0,Young,,Hyderabad,Telangana,,,,56,7.5,747,1,1,56,33.33,,168,0,0,,0,0,,28,16.66,,,,,0,0,,28,16.66,,,,,2
+1,8,Shark Ko Impress Karne Wale Ideas,24,Motion Breeze,Electrical Vehicles,Smart Electric Motorcycle,,4,4,,0,Middle,,Vadodara,Gujarat,0,,,30,3,1000,1,1,30,6,,500,30,6,,0,0,,0,0,,,,,0,0,,0,0,,,,,1
+1,9,Defining Innovations,25,Altor,Manufacturing,Smart Helmets,https://www.altorsmarthelmet.com/,4,4,,0,Young,2019,Kolkata,West Bengal,,,,50,5,1000,1,1,50,7,,714,0,0,,25,3.5,,0,0,,,,,25,3.5,,0,0,,,,,2
+1,9,Defining Innovations,26,Ariro,Manufacturing,Wooden Toys,https://arirotoys.com/,2,1,1,1,Young,2020,Chennai,Tamil Nadu,300,2500000,50,50,2.5,2000,1,1,50,10,,500,0,0,,0,0,,0,0,,,,,25,5,,25,5,,,,,2
+1,9,Defining Innovations,27,Kabira Handmad,Food,Healthy Edible Oils dairy products spices flour,https://www.kabirafoods.com/,2,1,1,1,Middle,,Jaipur,Rajasthan,,16000000,3,100,5,2000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,10,Passion About Entrepreneurship,28,Nuutjob,Beauty/Fashion,Male Intimate Hygiene deo spray,https://nuutjob.com/,2,,2,0,Young,2021,Ahmedabad,Gujarat,,200,70,25,5,500,1,1,25,20,,125,0,0,,8.33,6.66,,0,0,,,,,8.33,6.66,,8.33,6.66,,,,,3
+1,10,Passion About Entrepreneurship,29,Meatyour,Food,Eggs,https://meatyour.com/,3,3,,0,Middle,,Pune,Maharashtra,130,280000,30,30,5,600,1,1,30,20,,150,0,0,,0,0,,10,6.66,,,,,10,6.66,,10,6.66,,,,,3
+1,10,Passion About Entrepreneurship,30,EventBeep,Education,Student Community App EdTech,,3,2,1,,Young,,,,,,,30,2,1500,1,1,30,3,,1000,10,1,,0,0,,0,0,,,,,10,1,,10,1,,,,,3
+1,11,Investment Paane Ka Sapna,31,Gopal's 56,Food,Fiber Ice Cream,https://www.gopals56.in/,1,1,,0,Middle,2014,Delhi,Delhi,80,3300000,,30000,25,120000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,11,Investment Paane Ka Sapna,32,ARRCOAT Surface Textures,Manufacturing,Wall Building Surface Textures,https://www.arrcoat.com/,3,3,,0,Middle,2019,Delhi,Delhi,,600000,,50,5,1000,1,1,50,15,,333,0,0,,0,0,,50,15,,,,,0,0,,0,0,,,,,1
+1,11,Investment Paane Ka Sapna,33,Farda,Beauty/Fashion,Customised Streetwear,https://fardaclothing.com/,2,1,1,0,Young,2021,Nagpur,Maharashtra,,32000,115,30,10,300,1,1,30,20,,150,0,0,,15,10,,0,0,,,,,15,10,,0,0,,,,,2
+1,12,Ek Idea Aur Uske Do Sides,34,Auli,Beauty/Fashion,Ayurvedic Products Skincare Lifestyle,https://aulilifestyle.com/,1,,1,0,Middle,,Kolkata,West Bengal,,1600000,80,75,4,1875,1,1,75,15,,500,0,0,,75,15,,0,0,,,,,0,0,,0,0,,,,,1
+1,12,Ek Idea Aur Uske Do Sides,35,SweeDesi,Food,Indian Sweets Online,https://www.sweedesi.com/,2,1,1,1,Middle,,Pune,Maharashtra,,,,40,3,1333,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,12,Ek Idea Aur Uske Do Sides,36,LOKA,Technology,Metaverse App,https://www.lokaworld.app/,1,1,,0,Young,,Delhi,Delhi,,,,40,5,800,1,1,40,24,,167,0,0,,0,0,,13.33,8,,,,,13.33,8,,13.33,8,,,,,3
+1,13,Ideas By Young Entrepreneurs,37,Annie,Education,Thinkerbell labs Braille Literary Device,https://www.thinkerbelllabs.com/annie,4,3,1,1,Young,2016,Bangalore,Karnataka,,400000,,30,0.5,6000,1,1,105,3,,3500,0,0,,35,1,,35,1,,,,,0,0,,35,1,,,,,3
+1,13,Ideas By Young Entrepreneurs,38,Carragreen,Manufacturing,Eco-Friendly boxes,https://carragreen.com/,2,,2,0,Middle,,Indore,Madhya Pradesh,,,,50,10,500,1,1,50,20,,250,0,0,,0,0,,25,10,,,,,0,0,,25,10,,,,,2
+1,13,Ideas By Young Entrepreneurs,39,The Yarn Bazaar,Manufacturing,Yarn-Trading App Online Marketplace for Yarn,https://theyarnbazaar.com/,1,1,,0,Middle,,Mumbai,Maharashtra,180,,,50,2,2500,1,1,100,10,,1000,25,2.5,,0,0,,25,2.5,,,,,25,2.5,,25,2.5,,,,,4
+1,14,Naye Aur Nayab Pitchers,40,The Renal Project,Medical,Home Dialysis Treatment,https://www.therenalproject.com/,1,1,,0,Middle,2019,Mumbai,Maharashtra,90,,,100,3,3333,1,1,100,6,,1667,0,0,,50,3,,0,0,,,,,50,3,,0,0,,,,,2
+1,14,Naye Aur Nayab Pitchers,41,Morriko Pure Foods,Food,Healthy Food Snacks Kamdhenu foods,https://morrikopurefoods.com/,3,2,1,0,Middle,2018,Valsad,Gujarat,,1600000,,100,3,3333,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,14,Naye Aur Nayab Pitchers,42,Good Good Piggy,Technology,Digital Piggy Bank,https://goodgoodpiggy.com/,2,,2,0,Young,,Delhi,Delhi,0,,,45,5,900,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,15,It's Time To Change,43,Hammer Lifestyle,Manufacturing,Smart Audio Products,https://hammeronline.in/,3,3,,0,Young,,Panipat,Haryana,1000,,,30,3,1000,1,1,100,40,,250,0,0,,0,0,,0,0,,,,,100,40,,0,0,,,,,1
+1,15,It's Time To Change,44,PNT,Technology,Robotics and Automation Solutions,https://pntsolutions.in/,2,2,,0,Young,2021,Mumbai,Maharashtra,,,,50,4,1250,1,1,25,25,25,100,0,0,,0,0,,0,0,,,,,0,0,,25,25,25,,,,1
+1,15,It's Time To Change,45,Cocofit,Food,Coconut based beverage franchise,https://www.cocofit.in/,3,3,,0,Middle,2019,Hyderabad,Telangana,100,,95,0.00005,5,0,1,1,0.00005,5,,0,0,0,,0.000016,1.666,,0.000016,1.666,,,,,0.000016,1.666,,0,0,,,,,3
+1,16,Winning The Sharks Trust,46,Bamboo India,Manufacturing,Bamboo Products,https://www.bambooindia.com/,2,1,1,1,Middle,2016,Pune,Maharashtra,,2000000,,80,4,2000,1,1,50,3.5,30,1429,25,1.75,15,0,0,,25,1.75,15,,,,0,0,,0,0,,,,,2
+1,16,Winning The Sharks Trust,47,Flying Fur,Animal/Pets,Dog Hygiene,https://flyingfur.in/,3,2,1,0,Middle,,Delhi,Delhi,,,,75,7,1071,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,16,Winning The Sharks Trust,48,Beyond Water,Food,Liquid Water Enhancer,https://drinkbeyond.co.in/,2,1,1,0,Young,2020,Kolkata,West Bengal,,1000000,,75,4,1875,1,1,75,15,,500,0,0,,37.5,7.5,,0,0,,,,,37.5,7.5,,0,0,,,,,2
+1,16,Winning The Sharks Trust,49,Let's Try,Food,Healthy Snacks,https://www.letstryfoods.com/,4,1,3,1,Middle,2017,Delhi,Delhi,,300000,55,45,2,2250,1,1,45,12,,375,0,0,,0,0,,22.5,6,,,,,22.5,6,,0,0,,,,,2
+1,17,A Wave Of Startups,50,Find Your Kicks India,Beauty/Fashion,Sneaker Resale,https://findyourkicksindia.co/,3,3,,0,Young,2021,Ludhiana,Punjab,,350000,,50,10,500,1,1,50,25,,200,10,5,,10,5,,10,5,,,,,10,5,,10,5,,,,,5
+1,17,A Wave Of Startups,51,Aas Vidyalaya,Education,EdTech App,https://www.aasvidyalaya.com/,2,1,1,1,Middle,2019,Mumbai,Maharashtra,150,,,150,3,5000,1,1,150,15,,1000,50,5,,50,5,,0,0,,,,,0,0,,50,5,,,,,3
+1,17,A Wave Of Startups,52,Outbox,Services,Premium Surprise-Planning,https://www.outboxsurprises.com/,2,1,1,1,Young,2017,Kolkata,West Bengal,110,,,50,5,1000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,17,A Wave Of Startups,53,RoadBounce,Technology,Pothole Detection Software and Data,https://www.roadbounce.com/,1,1,,0,Middle,2016,Pune,Maharashtra,250,,,80,10,800,1,1,80,20,,400,0,0,,0,0,,0,0,,,,,0,0,,80,20,,,,,1
+1,18,Investing In Profitable Businesses,54,Mommy's Kitchen,Food,Thin Crust Pizza,,3,2,1,,,,,,,450000,,90,3,3000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,18,Investing In Profitable Businesses,55,India Hemp and Co,Food,Hemp Food Products,,1,,1,0,,,,,,200000,,50,4,1250,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,18,Investing In Profitable Businesses,56,Otua,Electrical Vehicles,Electric Auto Vehicle Dandera,,2,2,,0,,,,,,,,100,1,10000,1,1,1,1,99,100,1,1,99,0,0,,0,0,,,,,0,0,,0,0,,,,,1
+1,18,Investing In Profitable Businesses,57,Anthyesti,Services,Funeral Service the last rites,,1,,1,0,,,,,116,,50,50,2.5,2000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,19,Forming An Idea And Bagging A Deal,58,Ethik,Manufacturing,Leather-free Shoes,,2,2,,0,,,,,,100000,,15,5,300,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,19,Forming An Idea And Bagging A Deal,59,WeSTOCK,Animal/Pets,Brainwired Livestock health monitoring AI pets ear tag,,2,2,,0,,,Thiruvananthapuram,Kerala,55,,,50,5,1000,1,1,60,10,,600,15,2.5,,15,2.5,,0,0,,,,,15,2.5,,15,2.5,,,,,4
+1,19,Forming An Idea And Bagging A Deal,60,Keto India,Food,Customised Keto Diets for various medical issues,,1,1,,0,,,,,180,,,150,1.25,12000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,19,Forming An Idea And Bagging A Deal,61,Magic lock,Hardware,LPG Cylinder lock,,3,3,,0,,,,,,4000,,120,8,1500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,20,A Variety Of Ideas,62,The State Plate,Food,Delicacies,,2,1,1,,,,"Bangalore, Kolkata","Karnataka, West Bengal",,4000000,,65,2,3250,1,1,40,3,25,1333,0,0,,0,0,,0,0,,,,,0,0,,40,3,25,,,,1
+1,20,A Variety Of Ideas,63,Bakarmax,Technology,Comics & Animation,,2,2,,0,,,,,35,,,35,5,700,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,20,A Variety Of Ideas,64,IN A CAN,Food,Can Cocktails,,2,2,,0,,,,,,,,50,2,2500,1,1,100,10,,1000,20,2,,20,2,,20,2,,,,,20,2,,20,2,,,,,5
+1,21,Game-changing Ideas,65,Get-A-Whey,Food,Sugar-Free Icecream,,2,1,1,,,,,,,3000000,69,100,8,1250,1,1,100,15,,667,33.33,5,,,,,0,0,,33.33,5,,33.33,5,,0,0,,,,,3
+1,21,Game-changing Ideas,66,Sid07 Designs,Hardware,Inventions,,1,1,,0,,,Jammu,Jammu & Kashmir,,100000,,47,10,470,1,1,25,75,22,33,0,0,,,,,0,0,,0,0,,0,0,,25,75,22,,,,1
+1,21,Game-changing Ideas,67,The Quirky Naari,Beauty/Fashion,Customised Apparels,,1,,1,0,,2018,Mathura,Uttar Pradesh,,,,35,5,700,1,1,35,24,,146,0,0,,,,,17.5,12,,17.5,12,,0,0,,0,0,,,,,2
+1,22,Turning Ideas Into Businesses,68,Hair Originals,Beauty/Fashion,Natural Hair Extensions,,3,3,,0,,2019,,,,5000000,62,60,2,3000,1,1,60,4,,1500,20,1.33,,,,,20,1.33,,0,0,,0,0,,20,1.33,,,,,3
+1,22,Turning Ideas Into Businesses,69,Poo-de-Cologne,Beauty/Fashion,Toilet Spray with Essential Oils,,1,,1,0,,,Mumbai,Maharashtra,,75000,150,75,5,1500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,22,Turning Ideas Into Businesses,70,Moonshine,Food,Meads,,2,2,,0,,2018,Mumbai,Maharashtra,372,,70,80,0.5,16000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,22,Turning Ideas Into Businesses,71,Falhari,Food,Fresh Fruits salads,,3,3,,0,,,,,,100000,25,50,2,2500,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,23,Investing In Innovation,72,Namhya Foods,Food,Ayurvedic Enriched Food,,1,,1,0,,,Jammu,Jammu & Kashmir,,1600000,34,100,5,2000,1,1,50,10,50,500,0,0,,,,,0,0,,0,0,,50,10,50,0,0,,,,,1
+1,23,Investing In Innovation,73,Urban Monkey,Beauty/Fashion,Streetwear,,1,1,,0,,2014,Mumbai,Maharashtra,,20000000,25,100,1,10000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,23,Investing In Innovation,74,Guardian Gears,Manufacturing,Motorcycle Luggage bags,,2,1,1,,,,Hyderabad,Telangana,2500,2100000,50,30,5,600,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,23,Investing In Innovation,75,Modern Myth,Beauty/Fashion,Bags,,2,1,1,,,2019,Delhi,Delhi,,1400000,,75,5,1500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,24,A Decade Of Indian Entrepreneurship,76,The Sass Bar,Beauty/Fashion,Gifts Soaps,,1,,1,0,,2021,Mumbai,Maharashtra,,700000,65,40,8,500,1,1,50,35,,143,,,,0,0,,25,17.5,,0,0,,,,,0,0,,25,17.5,,2
+1,24,A Decade Of Indian Entrepreneurship,77,KG Agrotech,Hardware,Agricultural Innovations,,2,2,,0,,2014,Malegaon,Maharashtra,,0,,30,10,300,1,1,10,40,20,25,,,,0,0,,0,0,,0,0,,,,,10,40,20,0,0,,1
+1,24,A Decade Of Indian Entrepreneurship,78,Nuskha Kitchen,Food,Homemade after delivery Foods,,2,1,1,,,2019,,,,145000,,20,10,200,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,An Ocean Of Opportunities,79,PawsIndia,Animal/Pets,Dog Products,,1,,1,0,,,Mumbai,Maharashtra,,2000000,,50,4,1250,1,1,50,15,,333,,,,0,0,,50,15,,0,0,,,,,0,0,,0,0,,1
+1,25,An Ocean Of Opportunities,80,Sunfox Technologies,Medical,Portable ECG Device,,4,4,,0,,2019,Dehradun,Uttarakhand,120,500000,,100,2,5000,1,1,100,6,,1667,,,,20,1.2,,20,1.2,,20,1.2,,,,,20,1.2,,20,1.2,,5
+1,25,An Ocean Of Opportunities,81,Alpino,Food,Roasted Peanut butter Products,,4,4,,0,,2016,Surat,Gujarat,1000,,38,150,2,7500,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,26,Revolutionary Ideas,82,Isak Fragrances,Beauty/Fashion,Perfumes Fragrances,,1,,1,0,,2016,Lucknow,Uttar Pradesh,,350000,,50,8,625,1,1,50,50,,100,,,,0,0,,0,0,,0,0,,,,,50,50,,0,0,,1
+1,26,Revolutionary Ideas,83,Julaa Automation,Manufacturing,Automatic Cradle,,3,3,,0,,,,,,0,,50,10,500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,26,Revolutionary Ideas,84,Rare Planet,Manufacturing,Handicrafts,,2,2,,0,,,,,,1200000,,65,1,6500,1,1,65,3,,2167,,,,65,3,,0,0,,0,0,,,,,0,0,,0,0,,1
+1,27,Investing In The Future Of India,85,Theka Coffee,Food,Coffee Products,,1,1,,0,,2018,Gandhinagar,Gujarat,180,400000,,50,10,500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,27,Investing In The Future Of India,86,Watt Technovations,Medical,Ventilated PPE Kits,,1,1,,0,,,,,,,,0.00101,2,0,1,1,0.00101,4,,0,,,,0.0002525,1,,0.0002525,1,,0,0,,,,,0.0002525,1,,0.0002525,1,,4
+1,27,Investing In The Future Of India,87,Aliste Technologies,Technology,Automation Solutions,,6,6,,0,,2020,,,,750000,40,60,5,1200,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,27,Investing In The Future Of India,88,Insurance Samadhan,Services,Insurance Solutions,,3,2,1,,,,,,,2200000,,100,1,10000,1,1,100,4,,2500,,,,0,0,,0,0,,0,0,,,,,100,4,,0,0,,1
+1,28,Meeting The New India Minds,89,Humpy A2,Food,Organic Milk A2 Products,,3,2,1,,,2017,Pune,Maharashtra,208,,44,75,4,1875,1,1,100,15,,667,,,,0,0,,0,0,,33.33,5,,,,,33.33,5,,33.33,5,,3
+1,28,Meeting The New India Minds,90,Kunafa World,Food,Kunafa food products,,2,1,1,,,2018,Mangalore,Karnataka,200,3000000,30,90,5,1800,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,28,Meeting The New India Minds,91,Gold Safe Solutions,Manufacturing,Anti-Suicidal Fan Rod,,2,2,,0,,2017,Mumbai,Maharashtra,50,,25,50,5,1000,1,1,50,30,,167,,,,0,0,,0,0,,16.66,10,,,,,16.66,10,,16.66,10,,3
+1,29,Businesses Of Tomorrow,92,Wakao Foods,Food,Jackfruit Products,,1,1,,0,,2021,Goa,Goa,,600000,,75,5,1500,1,1,75,21,,357,,,,25,7,,0,0,,25,7,,,,,0,0,,25,7,,3
+1,29,Businesses Of Tomorrow,93,PDD Falcon,Manufacturing,Stainless Steel Items,,2,1,1,,,2018,Gandhinagar,Gujarat,272,,30,75,3,2500,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,29,Businesses Of Tomorrow,94,PlayBoxTV,Services,Streaming Platform,,2,2,,0,,,Mumbai,Maharashtra,1020,,,100,3.5,2857,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,30,Sharks Ki Expertise,95,Sippline,Manufacturing,Portable Glass Attachment Drinking Shields,,1,1,,0,,2019,,,,,,75,15,500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,30,Sharks Ki Expertise,96,Kabaddi Adda,Sports,All-Kabaddi App,,2,2,,0,,2019,,,250,,,80,1,8000,1,1,80,6,,1333,0,0,,40,3,,0,0,,40,3,,0,0,,,,,,,,2
+1,30,Sharks Ki Expertise,97,Shades of Spring,Beauty/Fashion,Flowers,,2,1,1,,,,Bangalore,Karnataka,900,,29,300,1,30000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,30,Sharks Ki Expertise,98,Scholify,Education,Scholarship Platform,,1,1,,0,,,Bangalore,Karnataka,,,,50,7.5,667,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,31,Entrepreneurship Ki Raah,99,Scrapshala,Manufacturing,Handmade Reusable Scrap Materials,,2,,2,0,,,Banaras,Uttar Pradesh,,,,50,10,500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,31,Entrepreneurship Ki Raah,100,Sabjikothi,Manufacturing,Vegetables Storage,,2,1,1,,,,,,0,,,60,2.5,2400,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,31,Entrepreneurship Ki Raah,101,AyuRythm,Medical,Ayurvedic Wellness App,,3,3,,0,,,,,,,,75,2,3750,1,1,75,2.68,,2799,0,0,,0,0,,0,0,,0,0,,75,2.68,,,,,,,,1
+1,31,Entrepreneurship Ki Raah,102,Astrix,Manufacturing,Smart Locks Qtouch,,2,1,1,,,2021,Coimbatore,Tamil Nadu,,1800000,,75,3,2500,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,32,The Road To Success,103,Thea and Sid,Services,Proposal Solutions,,2,,2,0,,,,,16,1000000,75,80,7,1143,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,32,The Road To Success,104,ExperentialEtc,Technology,Technology layered advertisement services,,2,2,,0,,2017,,,100,,,200,4,5000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,32,The Road To Success,105,GrowFitter,Technology,Rewards App,,2,2,,0,,2021,,,170,,,50,1,5000,1,1,50,2,,2500,0,0,,0,0,,0,0,,,,,50,2,,0,0,,,,,1
+1,32,The Road To Success,106,C3 Med-Tech,Medical,Portable opthalmic vision devices,,2,1,1,,,,,,,,,35,6,583,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,33,Life-Changing Ideas,107,Colour Me Mad - CMM,Beauty/Fashion,Insoles,,2,1,1,,,,,,,66000,,40,10,400,1,1,40,25,,160,0,0,,40,25,,0,0,,,,,0,0,,0,0,,,,,1
+1,33,Life-Changing Ideas,108,Mavi's,Food,Vegan Fermented Food,,2,1,1,,,2018,,,,,,40,5,800,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,33,Life-Changing Ideas,109,Tweek Labs,Sports,Sportswear,,4,4,,0,,,,,,,,40,2,2000,1,1,60,10,,600,20,3.33,,0,0,,20,3.33,,,,,0,0,,20,3.33,,,,,3
+1,33,Life-Changing Ideas,110,Proxgy,Technology,VR,,2,2,,0,,,Delhi,Delhi,,,,35,1,3500,1,1,100,10,,1000,50,5,,0,0,,0,0,,,,,0,0,,50,5,,,,,2
+1,34,Scaling Ambitions,111,Nomad Food Project,Food,Bacon Jams Relishes,,2,2,,0,,2019,"Pune, Delhi","Maharashtra, Delhi",,300000,70,40,10,400,1,1,40,20,,200,10,5,,10,5,,0,0,,10,5,,0,0,,0,0,,10,5,,4
+1,34,Scaling Ambitions,112,Twee in One,Beauty/Fashion,Reversible and convertible clothing,,1,,1,0,,,,,,,,30,7.5,400,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,34,Scaling Ambitions,113,Green Protein,Food,Plant-Based Protein,,2,1,1,1,,2019,Mumbai,Maharashtra,,1200000,40,60,2,3000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,34,Scaling Ambitions,114,On2Cook,Food,Fastest Cooking Device,,1,1,,0,,,,,0,,,100,1,10000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,35,The Final Destination,115,Jain Shikanji,Food,Lemonade,,1,1,,0,,,Modinagar,Uttar Pradesh,,200000,,40,8,500,1,1,40,30,,133,10,7.5,,0,0,,10,7.5,,10,7.5,,10,7.5,,0,0,,0,0,,4
+1,35,The Final Destination,116,Woloo,Technology,Washroom Finder,,3,1,2,,,,,,108,,,50,4,1250,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,35,The Final Destination,117,Elcare India,Medical,Carenting for Elders,,3,2,1,,,2021,Mumbai,Maharashtra,60,,30,100,2.5,4000,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,36,Gateway To Shark Tank India,118,SneaKare,Beauty/Fashion,Shoe Sneaker kits storage crates,,1,1,,0,Young,2020,Delhi,Delhi,,700000,,20,5,400,1,1,21,12,,175,,,,7,4,,0,0,,7,4,,7,4,,0,0,,,,,3
+1,36,Gateway To Shark Tank India,119,French Crown,Beauty/Fashion,Clothes,,2,2,,0,Middle,2017,Surat,Gujarat,7200,,70,150,0.33,45455,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,36,Gateway To Shark Tank India,120,Store My Goods,Services,Storage solutions,,3,2,1,1,,2020,,,100,,,100,1.75,5714,1,1,50,4,50,1250,,,,25,2,25,0,0,,0,0,,0,0,,25,2,25,,,,2
+1,36,Gateway To Shark Tank India,121,Devnagri,Technology,Translation of language content,,2,2,,0,,2020,Delhi,Delhi,500,,,100,1,10000,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,
