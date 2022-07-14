@@ -1,3 +1,4 @@
-# 2022 Ukraine Russia War Analysis
+# 2022-Ukraine Russia War Analysis
 
-## Author : Saurabh Kumar
+## Author : Saurabh Kumar 
+
