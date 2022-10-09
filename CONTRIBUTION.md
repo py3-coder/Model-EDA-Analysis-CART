@@ -137,6 +137,12 @@
     <td> Diabetes Prediction </td>
     <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Diabetes%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 17. </td>
+    <td> Corona Virus Data Analysis </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Corona%20Virus%20Data%20Analysis</td>
+  </tr>
 
 </table>
 
