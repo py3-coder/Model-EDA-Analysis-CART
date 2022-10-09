@@ -155,6 +155,12 @@
     <td> Gold-Price Prediction </td>
     <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Gold-Price%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 20. </td>
+    <td> Terrorist Attack Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Terrorist%20Attack%20Prediction</td>
+  </tr>
 
 </table>
 
