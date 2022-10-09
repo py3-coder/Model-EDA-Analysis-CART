@@ -65,8 +65,16 @@
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Breast_Cancer_Detection</td>
   </tr>
  
+ 
   <tr>
     <td  align="center"> 5. </td>
+    <td>Donors Prediction</td>
+    <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Donors%20Prediction</td>
+  </tr>
+ 
+ 
+  <tr>
+    <td  align="center"> 6. </td>
     <td>Electric Charging Station Analysis</td>
     <td>https://github.com/runtime-error2905/Model-EDA-Analysis-CART/tree/main/Electric%20Charging%20Station%20Analysis</td>
   </tr>
