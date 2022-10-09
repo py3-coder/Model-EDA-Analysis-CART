@@ -143,6 +143,12 @@
     <td> Corona Virus Data Analysis </td>
     <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Corona%20Virus%20Data%20Analysis</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 18. </td>
+    <td> House Price Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/House%20Price%20Prediction</td>
+  </tr>
 
 </table>
 
