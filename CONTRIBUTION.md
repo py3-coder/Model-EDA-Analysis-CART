@@ -161,6 +161,12 @@
     <td> Terrorist Attack Prediction </td>
     <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Terrorist%20Attack%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 21. </td>
+    <td> Rainfall Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Rainfall%20Prediction</td>
+  </tr>
 
 </table>
 
