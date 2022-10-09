@@ -149,6 +149,12 @@
     <td> House Price Prediction </td>
     <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/House%20Price%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 19. </td>
+    <td> Gold-Price Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Gold-Price%20Prediction</td>
+  </tr>
 
 </table>
 
