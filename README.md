@@ -54,8 +54,8 @@ NOTE : Contributions done to the `Correct Directory`  will be considered towards
 ## STEP-1. Create a Folder with Project Name.
 Contributions done to the `Correct Directory`  will only considered for Hacktoberfest 2022.
 
-## `HOW TO DO CONTRIBUTION IN DATA SCIENCE : JUST SEE THE GUIDELINE.md File`
-## [Guideline.md](https://github.com/py3-coder/Model-EDA-Analysis-CART/blob/main/Guideline.md)
+## `HOW TO DO CONTRIBUTION IN DATA SCIENCE : JUST SEE THE GUIDELINE in CONTRIBUTION.md File`
+## [CONTRIBUTION.md](https://github.com/py3-coder/Model-EDA-Analysis-CART/blob/main/CONTRIBUTION.md)
 
 
 
