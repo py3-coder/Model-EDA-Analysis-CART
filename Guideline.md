@@ -41,13 +41,29 @@
 
   <tr>
     <td  align="center"> 1. </td>
-    <td>Horse Survival Prediction</td>
-    <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Data-Science/Horse%20Survival%20Prediction</td>
+    <td>2022 Ukraine Russia War Analysis</td>
+    <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/2022%20Ukraine%20Russia%20War%20Analysis</td>
   </tr>
 
 
-  <!-- ADD THE TEMPLATE BELOW -->
-
+  <!-- ADD THE TEMPLATE BELOW --> 
+ <tr>
+    <td  align="center"> 2. </td>
+    <td>Alcohol Consumption EDA</td>
+    <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Alcohol%20Consumption%20EDA</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 3. </td>
+    <td>Brain Tumor Classification</td>
+    <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/2022%20Ukraine%20Russia%20War%20Analysis</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 4. </td>
+    <td>Breast_Cancer_Detection</td>
+    <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Breast_Cancer_Detection</td>
+  </tr>
 
 </table>
 
