@@ -162,5 +162,10 @@
     <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Terrorist%20Attack%20Prediction</td>
   </tr>
 
+ <tr>
+    <td  align="center"> 21. </td>
+    <td> Terrorism_data_EDA </td>
+    <td>https://github.com/codecode12345/Model-EDA-Analysis-CART/tree/main/Terrorism_EDA</td>
+  </tr>
 </table>
 
