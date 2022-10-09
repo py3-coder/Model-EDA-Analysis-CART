@@ -155,6 +155,29 @@
     <td> Gold-Price Prediction </td>
     <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Gold-Price%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 20. </td>
+    <td> Terrorist Attack Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Terrorist%20Attack%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 21. </td>
+    <td> Rainfall Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Rainfall%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 22. </td>
+    <td> Heart Disease Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Heart%20Disease%20Prediction</td>
+  </tr>
 
+ <tr>
+    <td  align="center"> 21. </td>
+    <td> Terrorism_data_EDA </td>
+    <td>https://github.com/codecode12345/Model-EDA-Analysis-CART/tree/main/Terrorism_EDA</td>
+  </tr>
 </table>
 
