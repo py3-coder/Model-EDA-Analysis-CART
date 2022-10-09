@@ -131,6 +131,12 @@
     <td> Fake Job Prediction </td>
     <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Fake%20Job%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 16. </td>
+    <td> Diabetes Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Diabetes%20Prediction</td>
+  </tr>
 
 </table>
 
