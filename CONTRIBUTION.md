@@ -125,6 +125,42 @@
     <td>Wine_Quality_Analysis</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Wine_Quality_Analysis</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 15. </td>
+    <td> Fake Job Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Fake%20Job%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 16. </td>
+    <td> Diabetes Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Diabetes%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 17. </td>
+    <td> Corona Virus Data Analysis </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Corona%20Virus%20Data%20Analysis</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 18. </td>
+    <td> House Price Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/House%20Price%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 19. </td>
+    <td> Gold-Price Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Gold-Price%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 20. </td>
+    <td> Terrorist Attack Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Terrorist%20Attack%20Prediction</td>
+  </tr>
 
 </table>
 
