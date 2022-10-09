@@ -125,6 +125,12 @@
     <td>Wine_Quality_Analysis</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Wine_Quality_Analysis</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 15. </td>
+    <td> Fake Job Prediction </td>
+    <td>https://github.com/abhijeet49/Model-EDA-Analysis-CART/tree/main/Fake%20Job%20Prediction</td>
+  </tr>
 
 </table>
 
