@@ -167,6 +167,12 @@
     <td> Rainfall Prediction </td>
     <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Rainfall%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 22. </td>
+    <td> Heart Disease Prediction </td>
+    <td>https://github.com/SideWinder1999/Model-EDA-Analysis-CART/tree/main/Heart%20Disease%20Prediction</td>
+  </tr>
 
  <tr>
     <td  align="center"> 21. </td>
