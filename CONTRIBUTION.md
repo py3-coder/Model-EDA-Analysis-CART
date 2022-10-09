@@ -68,55 +68,60 @@
  
   <tr>
     <td  align="center"> 5. </td>
+    <td>Campus Recruitment Drive Prediction</td>
+    <td>https://github.com/runtime-error2905/Model-EDA-Analysis-CART/tree/main/Campus%20Recruitment%20Drive%20Prediction</td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> 6. </td>
     <td>Donors Prediction</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Donors%20Prediction</td>
   </tr>
  
- 
   <tr>
-    <td  align="center"> 6. </td>
+    <td  align="center"> 7. </td>
     <td>Electric Charging Station Analysis</td>
     <td>https://github.com/runtime-error2905/Model-EDA-Analysis-CART/tree/main/Electric%20Charging%20Station%20Analysis</td>
   </tr>
  
   <tr>
-    <td  align="center"> 6. </td>
+    <td  align="center"> 8. </td>
     <td>Froza_Horizon_Cars_Analysis</td>
     <td>https://github.com/runtime-error2905/Model-EDA-Analysis-CART/tree/main/Froza_Horizon_Cars_Analysis</td>
   </tr>
  
   <tr>
-    <td  align="center"> 7. </td>
+    <td  align="center"> 9. </td>
     <td>Horse_Survival_Prediction</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Horse_Survival_Prediction</td>
   </tr>
  
   <tr>
-    <td  align="center"> 8. </td>
+    <td  align="center"> 10. </td>
     <td>Phishing Detection</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main//Phishing%20Detection</td>
   </tr>
  
   <tr>
-    <td  align="center"> 9. </td>
+    <td  align="center"> 11. </td>
     <td>Shark_Tank_Analysis</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Shark_Tank_Analysis</td>
   </tr>
  
   <tr>
-    <td  align="center"> 10. </td>
+    <td  align="center"> 12. </td>
     <td>Breast_Cancer_Detection</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Breast_Cancer_Detection</td>
   </tr>
  
   <tr>
-    <td  align="center"> 11. </td>
+    <td  align="center"> 13. </td>
     <td>Snake_Data_Analysis_EDA</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Snake_Data_Analysis_EDA</td>
   </tr>
  
  <tr>
-    <td  align="center"> 12. </td>
+    <td  align="center"> 14. </td>
     <td>Wine_Quality_Analysis</td>
     <td>https://github.com/py3-coder/Model-EDA-Analysis-CART/tree/main/Wine_Quality_Analysis</td>
   </tr>
