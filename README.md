@@ -82,7 +82,7 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
 <table border="5" align = "center">
   <tr>
     <th align="center">Serial No.</th>
-    <th>Name of Program</th>
+    <th>Projects</th>
     <th>Link</th>
   </tr>
 
