@@ -179,5 +179,23 @@
     <td> Terrorism_data_EDA </td>
     <td>https://github.com/codecode12345/Model-EDA-Analysis-CART/tree/main/Terrorism_EDA</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> [23] </td>
+    <td> [Face Emotion Detection] </td>
+    <td> [https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Emotion%20Detection] </td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> [24] </td>
+    <td> [Pose Estimation] </td>
+    <td> [https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Pose%20Estimation] </td>
+  </tr>
+ 
+ <tr>
+    <td  align="center"> [25] </td>
+    <td> [Red Dots On Green] </td>
+    <td> [https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Red%20Dots%20on%20Green] </td>
+  </tr>
 </table>
 
