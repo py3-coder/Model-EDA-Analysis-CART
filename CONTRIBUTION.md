@@ -203,5 +203,11 @@
     <td>Dogi Coin Prediction </td>
     <td> https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Dogi%20Coin%20Price%20Prediction</td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 27. </td>
+    <td>Movies Recommendation System</td>
+    <td>https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Dogi%20Coin%20Price%20Prediction</td>
+  </tr>
 </table>
 
