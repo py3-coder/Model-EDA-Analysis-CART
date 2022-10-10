@@ -197,5 +197,11 @@
     <td> Red Dots On Green </td>
     <td> https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Red%20Dots%20on%20Green </td>
   </tr>
+ 
+ <tr>
+    <td  align="center"> 26. </td>
+    <td>Dogi Coin Prediction </td>
+    <td> https://github.com/Alok5445Sagar/Model-EDA-Analysis-CART/tree/main/Dogi%20Coin%20Price%20Prediction</td>
+  </tr>
 </table>
 
