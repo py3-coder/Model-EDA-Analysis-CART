@@ -8,7 +8,7 @@
 ## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
 
 
-## Contributors of `Hacktoberfest 2022`
+## Contributors of `Model-EDA-Analysis-CART`
 
 <div align="center">
 
