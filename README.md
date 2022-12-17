@@ -1,12 +1,7 @@
-# Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
+# Model-EDA-Cart 
 
-<p align="center">
-  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
-</p>
 
 # `You Need ⭐ star this repo before you generate PR!📌`
-## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
-
 
 ## Contributors of `Model-EDA-Analysis-CART`
 
@@ -18,15 +13,10 @@
 
 </div>
 
-## You can generate `PULL REQUESTS` on this repository for `HACKTOBERFEST 2022`
 
-🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the Hacktoberfest-2022 challenge and earn a limited edition T-shirt.**
-
->>> **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SCHWAGS 🔥.**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/py3-coder" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
@@ -61,21 +51,9 @@ Contributions done to the `Correct Directory`  will only considered for Hacktobe
 
 ## STEP-2. Wait for Pull Request to merge
 
-## STEP-3. Celebrate - you've done your first pull request!!
+## STEP-3. Team Will verify the Project.
 
-## STEP-4. Now You are ready For next PR.
-
-```
-'''
-You are always advised to make more then 4 pull request
-Suppose, you have made only 4 pull request to different projects
-but due to some problem one project gets excluded from hackoctoberfest event then your pull request will not be counted towards HACKTOBERFEST contributions and 
-then you will be remained with only 3 valid pull requests.
-If you fail to make 4 valid pull requests then you can't get schwags or t-shirts.
-'''
-```
-
-![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
+## STEP-4. Wait for Response
 
 
 ## PROJECT (Till Now We have)
@@ -88,7 +66,7 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
 <!-------------------------------DO NOT EDIT ANYTHING BEFORE THIS LINE (INCLUSIVE)------------------------------------------------------------------------------> 
-<!------JUST FOLLOW THE ORDER OF FILE AS IT IS IN JAVA FOLDER AFTER CONTRIBUTION YOUR FOLDER/FILE GOT THE POSTION IN FOLDER(MAKE SURE YOU ADD AFTER SEEING BEFOR AND AFTER PROGRAM---------------HOPE YOU ALL WILL FOLLOW------> 
+<!------JUST FOLLOW THE ORDER OF FILE AS IT IS IN  FOLDER AFTER CONTRIBUTION YOUR FOLDER/FILE GOT THE POSTION IN FOLDER(MAKE SURE YOU ADD AFTER SEEING BEFOR AND AFTER PROGRAM---------------HOPE YOU ALL WILL FOLLOW------> 
 
   <tr>
     <td  align="center"> 1. </td>
